@@ -9,6 +9,26 @@ All the best,
 
 Laurens Bogaardt
 
+ - [Check-In (!)](#check-in-)
+ - [Check-Out (!)](#check-out-)
+ - [Freezer (!)](#freezer-)
+ - [Toilet (!)](#toilet-)
+ - [Coffee and Tea](#coffee-and-tea)
+ - [Cleaning](#cleaning)
+ - [Trash](#trash)
+ - [Heating](#heating)
+ - [Washing and Drying](#washing-and-drying)
+ - [Oven and Microwave](#oven-and-microwave)
+ - [Dishwasher](#dishwasher)
+ - [Books and Games](#books-and-games)
+ - [Supermarket](#supermarket)
+ - [Bars and Restaurants](#bars-and-restaurants)
+ - [Nature Walks](#nature-walks)
+ - [Architecture Walks](#architecture-walks)
+ - [Bike Trips](#bike-trips)
+ - [Museum](#museum)
+ - [Canoe](#canoe)
+
 # Check-In (!)
 
 My sister Carlijn will meet you at my apartment to hand you the keys at 13:00. If you are early or late, please let her know via WhatsApp or by calling (+31631144027) so she doesn’t have to wait for too long.
@@ -76,7 +96,7 @@ The default programme of the dryer is usually the best one and takes a maximum o
 
 # Oven and Microwave
 
- - [Oven manual](./manuals/Oven.pdf)
+ - [Oven and microwave manual](./manuals/Oven and Microwave.pdf)
 
 The oven and microwave are the same machine. The easiest way to start the microwave is simply to press the ‘play’ button.
 
