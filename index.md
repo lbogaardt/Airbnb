@@ -76,7 +76,7 @@ The default programme of the dryer is usually the best one and takes a maximum o
 
 # Oven and Microwave
 
- - [Oven manual](/.manuals/Oven.pdf)
+ - [Oven manual](./manuals/Oven.pdf)
 
 The oven and microwave are the same machine. The easiest way to start the microwave is simply to press the ‘play’ button.
 
@@ -98,7 +98,7 @@ Feel free to use my books and games.
 
 # Supermarket
 
-The closest supermarket is Jumbo, which is just a few minutes walking: [https://maps.app.goo.gl/WCgqFtuvvzDRpsMG9]
+The closest supermarket is Jumbo, which is just a few minutes walking: [https://maps.app.goo.gl/WCgqFtuvvzDRpsMG9](https://maps.app.goo.gl/WCgqFtuvvzDRpsMG9)
 
 ![Supermarket](./images/Supermarket.png)
 
@@ -112,11 +112,11 @@ There are many bars and restaurants everywhere in Utrecht, but the two main area
 
 Unfortunately, we don’t have many parks in Utrecht, but there are a few nice places where you can find more green.
 
-Short walk along the ‘Singel’ which used to be the old city-wall of Utrecht: [https://maps.app.goo.gl/BgTJ3fS5tDbivvm88]
+Short walk along the ‘Singel’ which used to be the old city-wall of Utrecht: [https://maps.app.goo.gl/BgTJ3fS5tDbivvm88](https://maps.app.goo.gl/BgTJ3fS5tDbivvm88)
 
 ![Short Nature Walk](./images/Short Nature Walk.png)
 
-Long walk via ‘Wilhelminapark’, ‘Natuurpark Bloeyendael’ and ‘Griftpark’: [https://maps.app.goo.gl/3qB2YPKEpeswcAYx8]
+Long walk via ‘Wilhelminapark’, ‘Natuurpark Bloeyendael’ and ‘Griftpark’: [https://maps.app.goo.gl/3qB2YPKEpeswcAYx8](https://maps.app.goo.gl/3qB2YPKEpeswcAYx8)
 
 ![Long Nature Walk](./images/Long Nature Walk.png)
 
@@ -124,11 +124,11 @@ Long walk via ‘Wilhelminapark’, ‘Natuurpark Bloeyendael’ and ‘Griftpar
 
 Utrecht is famous for its old, Dutch houses. Not all places of the city are nice, but the following two walks will show you the nicest parts of the city.
 
-Short architecture walk along ‘Oudegracht’, ‘Domtoren’ and ‘Nieuwegracht’: [https://maps.app.goo.gl/7smgyT3yD6XpgYeQA]
+Short architecture walk along ‘Oudegracht’, ‘Domtoren’ and ‘Nieuwegracht’: [https://maps.app.goo.gl/7smgyT3yD6XpgYeQA](https://maps.app.goo.gl/7smgyT3yD6XpgYeQA)
 
 ![Short Architecture Walk](./images/Short Architecture Walk.png)
 
-Long architecture walk: [https://maps.app.goo.gl/DjMC6DVmZXQy7apP7]
+Long architecture walk: [https://maps.app.goo.gl/DjMC6DVmZXQy7apP7](https://maps.app.goo.gl/DjMC6DVmZXQy7apP7)
 
 ![Long Architecture Walk](./images/Long Architecture Walk.png)
 
@@ -136,18 +136,18 @@ Long architecture walk: [https://maps.app.goo.gl/DjMC6DVmZXQy7apP7]
 
 There are also nice nature areas outside of Utrecht.
 
-Short bike trip to ‘Amelisweerd’: [https://maps.app.goo.gl/f6WVpTD1sjAZEEgw7]
+Short bike trip to ‘Amelisweerd’: [https://maps.app.goo.gl/f6WVpTD1sjAZEEgw7](https://maps.app.goo.gl/f6WVpTD1sjAZEEgw7)
 
 ![Short Bike Trip](./images/Short Bike Trip.png)
 
-Long bike trip to the ‘Pyramid of Austerlitz’: [https://maps.app.goo.gl/ryrDTWv1K5dE2BoJ7]
+Long bike trip to the ‘Pyramid of Austerlitz’: [https://maps.app.goo.gl/ryrDTWv1K5dE2BoJ7](https://maps.app.goo.gl/ryrDTWv1K5dE2BoJ7)
 
 ![Long Bike Trip](./images/Long Bike Trip.png)
 
 # Museum
 
-There are many museums in Utrecht. Check out the map on: [https://www.museum.nl/en/see-and-do/museums/map?mv-Province=Utrecht]
+There are many museums in Utrecht. Check out the map on: [https://www.museum.nl/en/see-and-do/museums/map?mv-Province=Utrecht](https://www.museum.nl/en/see-and-do/museums/map?mv-Province=Utrecht)
 
 # Canoe
 
-It’s common to explore Utrecht by canoe. There are many rental shops but the one nearest my house is: [https://kanoverhuurutrecht.nl]
+It’s common to explore Utrecht by canoe. There are many rental shops but the one nearest my house is: [https://kanoverhuurutrecht.nl](https://kanoverhuurutrecht.nl)
